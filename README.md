@@ -1,5 +1,5 @@
 ### Hi there 👋
-- #### I'm a HUMAN
+- #### I'm an HUMAN
 - My e-mail is henzo.cardozo@escola.pr.gov.br
 - Studdy 
 <!--
