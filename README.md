@@ -1,7 +1,6 @@
-### Hi there 👋
-- #### I'm an HUMAN
-- My e-mail is henzo.cardozo@escola.pr.gov.br
-- Studdy 
+## Hi there 👋
+- ### I'm an HUMAN
+- ## My e-mail is henzo.cardozo@escola.pr.gov.br
 <!--
 **MrBrazuca/MrBrazuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
